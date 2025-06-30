@@ -1,4 +1,4 @@
-## React Frontend Deployment on Main Domain (`https://asr25.com`)
+## React Frontend Deployment on Main Domain
 
 1. In your React project, update API URLs:
 
