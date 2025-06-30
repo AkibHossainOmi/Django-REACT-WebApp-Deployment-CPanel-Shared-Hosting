@@ -1,4 +1,4 @@
-# Django Backend Deployment on cPanel Shared Hosting (Subdomain Setup)
+# Django Backend Deployment on Subdomain
 
 ---
 
