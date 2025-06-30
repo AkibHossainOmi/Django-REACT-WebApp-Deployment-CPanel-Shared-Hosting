@@ -1,1 +1,0 @@
-# Django-REACT-WebApp-Deployment-CPanel-Shared-Hosting
